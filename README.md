@@ -1,7 +1,6 @@
 # smoothpay
 
-A new Flutter project.
-
+Buy Now Pay Later App
 ## Getting Started
 
 This project is a starting point for a Flutter application.
